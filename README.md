@@ -5,7 +5,7 @@
 		I want to enjoy this new journey. 
 * Have fun<br/>
 
-<img width="150" height="150" src="https://github.com/zhangsandeyouxianga/HelloWorld/raw/master/1.jpg"/></div>
+<div align=center><img width="150" height="150" src="https://github.com/zhangsandeyouxianga/HelloWorld/raw/master/1.jpg"/></div>
 
 >One		
 >>Two
